@@ -1,4 +1,6 @@
-# Dashletter(Under development)
+# Dashletter(Unmaintained)
+This project was made for a friend. A basic django application including login for the users and maintaining a user database.
+
 ## How to use?
 I will be explaining you how to use it locally on your machine(that too linux) so if you are a windows user than good luck to you cuz the below command may or may not work for you.
 1. Open the Magic black window aka terminal. You will need python3 for this.
